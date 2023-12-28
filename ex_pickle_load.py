@@ -1,7 +1,7 @@
-# pickle_load_in_python.py
+# ex_pickle_load.py
 
 import pickle
-from pickle_dump_in_python import Food
+from ex_pickle_dump import Food
 
 with open('cheese.dat','rb') as file:
     cheese = pickle.load(file)

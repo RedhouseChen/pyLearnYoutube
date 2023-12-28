@@ -1,4 +1,4 @@
-# super_in_python.py
+# ex_super_func.py
 # super(): Code Reusability and Code Maintainability
 
 # parent class

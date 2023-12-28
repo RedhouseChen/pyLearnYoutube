@@ -1,4 +1,4 @@
-# threading_in_python.py
+# ex_threading_mod2.py
 
 import threading
 

@@ -1,4 +1,4 @@
-# init_in_python.py
+# ex_init_method.py
 # initializer: initialize parameter, variable
 
 #class MyClass:

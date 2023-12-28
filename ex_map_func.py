@@ -1,4 +1,4 @@
-# map_in_python.py
+# ex_map_func.py
 # Map Function: map(function, iterable)
 #                - Returns an iterator that applies function to every item of iterable.
 

@@ -1,4 +1,4 @@
-# self_in_python.py
+# ex_self_var.py
 # what is self in python?
 # self is a struct variable in class
 # Under the same class, self can pass through other def methods

@@ -1,4 +1,4 @@
-# lambda_in_python.py
+# ex_lambda_func2.py
 # Lambda function is a concise way to create anonymous functions on the fly.
 # Usage: lambda arguments: expression
 

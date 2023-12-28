@@ -1,7 +1,7 @@
-# seek_tell_in_python.py
+# ex_seek_tell.py
 # seek and tell: file handling
 
-file = open("./pyLearnYoutube/sample.txt", "r")
+file = open("./sample.txt", "r")
 position = file.tell()
 print("Current position:", position)
 
